@@ -6,3 +6,5 @@ Please follow this tutorial to import this [Postman Collection](https://www.getp
 
 ![Results of tests](https://raw.githubusercontent.com/AninaGlez/REST-functional-testing/master/Results.PNG)
 
+![Results of tests](https://raw.githubusercontent.com/AninaGlez/REST-functional-testing/master/Results_2.PNG)
+
