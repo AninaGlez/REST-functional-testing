@@ -4,3 +4,5 @@
 
 Please follow this tutorial to import this [Postman Collection](https://www.getpostman.com/docs/postman/collections/creating_collections).
 
+![Results some tests](https://github.com/AninaGlez/REST-functional-testing/Results.PNG)
+
